@@ -10,10 +10,12 @@ h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 600;
   color: rgb(0, 0, 0);
+  margin-left: 20px;
 }
 ul {
   color: rgb(81, 81, 81);
   list-style: none;
+  margin-left: 60px;
 }
 li {
   text-transform: capitalize;
@@ -48,4 +50,7 @@ li {
 .weather-forecast {
   text-align: center;
   margin-top: 26px;
+}
+.datedescription {
+  margin-left: 20px;
 }
